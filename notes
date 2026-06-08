@@ -1,0 +1,1 @@
+    # print(f"Transitions from {State_1} to {State_2}: {Counter_trans}, Total {State_1}: {Counter}")
