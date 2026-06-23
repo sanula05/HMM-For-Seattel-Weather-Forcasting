@@ -34,3 +34,5 @@
 # plt.tight_layout()
 # plt.savefig("transition_heatmap.png", dpi=150)
 # plt.show()
+
+*Seasonality and undoing transformations yet to be sorted 
